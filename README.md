@@ -58,27 +58,34 @@ Open terminal and try execute some kali linux commands
 # Output:
 # SITE:
 
-<img width="1904" height="1074" alt="image" src="https://github.com/user-attachments/assets/04021d77-b47d-405c-abcf-a3d781f2e6f9" />
+<img width="1906" height="1120" alt="image" src="https://github.com/user-attachments/assets/3708a9cb-88fc-4ea2-9d6c-4cd61d0bdfcb" />
 
 
 
 # INURL
-<img width="1919" height="1088" alt="image" src="https://github.com/user-attachments/assets/a1d7ae16-67af-47e6-af85-c46edc42e394" />
+<img width="1919" height="1130" alt="image" src="https://github.com/user-attachments/assets/9dd15e30-8ac6-4237-94a0-7d38c0b4aa64" />
+
 
 # INTITLE
-<img width="688" height="772" alt="intitle ex3" src="https://github.com/user-attachments/assets/bc95ab33-88c7-4f08-b3af-0fc34ed2acf8" />
+<img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/5e6922c3-b4f8-4aef-b9e7-cfefbf06f1e3" />
+
+
 
 # FILETYPE
-<img width="687" height="762" alt="Screenshot 2025-08-25 203146" src="https://github.com/user-attachments/assets/78c104a4-f091-4a54-9654-7c8ecf4aa03e" />
+<img width="1875" height="980" alt="image" src="https://github.com/user-attachments/assets/d2f2f50a-fe15-4892-9a60-a6b5e9b0c0b8" />
+
 
 # INTEXT
-<img width="682" height="767" alt="intext ex 3" src="https://github.com/user-attachments/assets/63adadc2-1f1c-4fc4-85e9-e5b5d0c80b0a" />
+ <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/9390f464-6fa5-454f-907d-c5c887880101" />
+
 
 # LINK
-<img width="687" height="765" alt="link ex3" src="https://github.com/user-attachments/assets/bb0cd924-f604-4b09-af6b-9f53a1caf352" />
+<img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/4dbfbe53-3259-46ea-a176-82fd98ae9d56" />
+
 
 # CACHE
-<img width="682" height="763" alt="cache ex3" src="https://github.com/user-attachments/assets/8e9222c7-7e63-433d-8da8-6f2e5259a1f3" />
+<img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/1edaa46e-0eda-4cc8-bce9-8671782a6595" />
+
 
 # EXT
 <img width="686" height="768" alt="ext ex3" src="https://github.com/user-attachments/assets/9b786d95-9d14-4015-8ccb-a72d6115c004" />
