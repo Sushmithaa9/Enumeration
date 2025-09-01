@@ -88,13 +88,13 @@ Open terminal and try execute some kali linux commands
 
 
 # EXT
-<img width="686" height="768" alt="ext ex3" src="https://github.com/user-attachments/assets/9b786d95-9d14-4015-8ccb-a72d6115c004" />
+<img width="1906" height="1134" alt="image" src="https://github.com/user-attachments/assets/9f9f80a4-bae4-45fb-beae-2c067b13f1ea" />
 
 # DNS Enumeration
-<img width="637" height="910" alt="Screenshot 2025-08-25 201434" src="https://github.com/user-attachments/assets/ec94ccaf-8750-457c-96ff-549001e88456" />
+<img width="833" height="384" alt="image" src="https://github.com/user-attachments/assets/e0ecf916-f8da-46c7-8590-f352f4696d90" />
 
 ## DNS Recon
-<img width="641" height="538" alt="Screenshot 2025-08-25 201550" src="https://github.com/user-attachments/assets/652769c5-bb4e-45bb-8f7e-e44ddba323be" />
+<img width="809" height="381" alt="image" src="https://github.com/user-attachments/assets/56554fe6-3944-4653-afe1-4545b66b69fd" />
 
 | Record Type | Meaning                        | Example Output                   |
 | ----------- | ------------------------------ | -------------------------------- |
@@ -120,25 +120,27 @@ Open terminal and try execute some kali linux commands
 
 ## OUTPUT:
 # NSLOOKUP
-<img width="703" height="821" alt="NS lookup exp 3" src="https://github.com/user-attachments/assets/8a318853-1550-47f5-9346-58debc54f552" />
+<img width="621" height="387" alt="image" src="https://github.com/user-attachments/assets/8c298b16-6f19-43a8-981a-5c86f50fe3bd" />
+
 
 # DIG
-<img width="644" height="634" alt="Screenshot 2025-08-25 201643" src="https://github.com/user-attachments/assets/6e031a87-8aa2-4663-91ad-512ecff7f3bb" />
+<img width="632" height="346" alt="image" src="https://github.com/user-attachments/assets/9fc41d30-f761-45d6-825b-b0e32717716d" />
 
 # HOST
-<img width="639" height="448" alt="Screenshot 2025-08-25 201729" src="https://github.com/user-attachments/assets/17703ab1-2e29-4441-a98b-9e6a88332dc4" />
+<img width="679" height="381" alt="image" src="https://github.com/user-attachments/assets/12e87167-084a-41b9-906d-4d657e11ccd3" />
 
 # DNSSENUM
-<img width="641" height="745" alt="Screenshot 2025-08-25 201827" src="https://github.com/user-attachments/assets/3c799a74-4d6a-40f0-b861-9468f98cd2a5" />
+<img width="846" height="386" alt="image" src="https://github.com/user-attachments/assets/21a5b99e-64bc-40d0-8fab-b028c399b583" />
 
 # DNSRECON
-<img width="639" height="834" alt="Screenshot 2025-08-25 201953" src="https://github.com/user-attachments/assets/c296e331-a2dc-437d-a097-55599e4fd3f6" />
+<img width="648" height="348" alt="image" src="https://github.com/user-attachments/assets/4cda7ea6-e440-4771-87ce-0b63599df984" />
 
 # FIERCE
-<img width="763" height="996" alt="fierce exp 3" src="https://github.com/user-attachments/assets/683ca218-93f0-49d8-9bfa-169d06cf2226" />
+<img width="864" height="226" alt="image" src="https://github.com/user-attachments/assets/c87099fc-ac34-497a-9c42-711dc9aefe1f" />
 
 # HARVESTER
-<img width="723" height="725" alt="Harvester exp 3" src="https://github.com/user-attachments/assets/be204124-6c7b-4dc7-a434-4d6c71cbccf9" />
+<img width="839" height="372" alt="image" src="https://github.com/user-attachments/assets/f948d370-7a14-4e54-8e01-b4a5e86f0050" />
+
 
 ## Architecture Diagram 
 ```
@@ -178,7 +180,7 @@ dnsenum example.com
 ```
 
 ## Output:
-<img width="658" height="471" alt="Screenshot 2025-08-25 204202" src="https://github.com/user-attachments/assets/7b5ee759-3c92-4ec1-a3fc-7e52ccb99aa4" />
+<img width="833" height="384" alt="image" src="https://github.com/user-attachments/assets/8e394786-96cb-44f9-9166-48fad22bc431" />
 
 
 
