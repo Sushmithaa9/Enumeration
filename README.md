@@ -195,7 +195,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
  ## Output
-<img width="680" height="370" alt="Screenshot 2025-08-25 202131" src="https://github.com/user-attachments/assets/e4c7471f-0524-4c3c-85f0-80ef250ebb1b" />
+<img width="702" height="359" alt="image" src="https://github.com/user-attachments/assets/64ff9a7e-e40f-42e7-8cd3-373c1872af80" />
 
 
 
@@ -209,7 +209,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
-<img width="681" height="137" alt="Screenshot 2025-08-25 202159" src="https://github.com/user-attachments/assets/bc1327b9-914d-47f7-b4df-c5c81c96d293" />
+<img width="677" height="177" alt="image" src="https://github.com/user-attachments/assets/6cc19572-672e-43e9-9ae2-0387869c92a7" />
+
 
 
 ## RESULT:
